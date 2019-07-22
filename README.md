@@ -9,12 +9,12 @@
  
  Mac and Linux Users 
  -------------
-   ```Add the file path to the Cron table as :
-       sudo crontab -e
+   ```Add the file path to the Cron table as :  
+  sudo crontab -e
     
-       # Inside the crontab file append the following line to the end of the file
+  # Inside the crontab file append the following line to the end of the file
      
-       @reboot python3 path_to_file.py```
+  @reboot python3 path_to_file.py```
   
   
 
